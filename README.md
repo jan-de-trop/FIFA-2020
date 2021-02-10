@@ -1,15 +1,14 @@
 # FIFA 2020 EDA and analysis
-## Final Project for Univ.Ai's AI1 course
 
 Football is arguably the most popular sport in the world and FIFA is the most popular football (soccer) simulation game by Electronic Arts (EA Sports). 
 
 The game is not to be confused with the official International Federation for Football (FIFA).
 
-You are given the public dataset, scraped from https://sofifa.com. 
+The public dataset, scraped from https://sofifa.com is used for this project.
 The data lists soccer players from the 2015-2020 editions of EA Sports FIFA video game.
 It consists of player positions, player attributes and personal data.
 
-### Problems
+### Aim of the analysis:
 
 ### Part A - Rank the Players 
 
